@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manvvv/LeetCode/tree/master/0001-two-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manvvv/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manvvv/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manvvv/LeetCode/tree/master/0162-find-peak-element) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manvvv/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Manvvv/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Manvvv/LeetCode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Manvvv/LeetCode/tree/master/1331-rank-transform-of-an-array) |
