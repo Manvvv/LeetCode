@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manvvv/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manvvv/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manvvv/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Manvvv/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manvvv/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manvvv/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Manvvv/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
