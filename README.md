@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Manvvv/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Manvvv/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Manvvv/LeetCode/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/Manvvv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Manvvv/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Manvvv/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manvvv/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Manvvv/LeetCode/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/Manvvv/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Manvvv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manvvv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Manvvv/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manvvv/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Manvvv/LeetCode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Manvvv/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Counting Sort
 |  |
