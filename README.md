@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Manvvv/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manvvv/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Manvvv/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Manvvv/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manvvv/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manvvv/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Manvvv/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manvvv/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Manvvv/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manvvv/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Manvvv/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manvvv/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Manvvv/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manvvv/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Manvvv/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Manvvv/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manvvv/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Manvvv/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manvvv/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manvvv/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manvvv/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
