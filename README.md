@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manvvv/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Manvvv/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manvvv/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1859-sorting-the-sentence](https://github.com/Manvvv/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manvvv/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Manvvv/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manvvv/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manvvv/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manvvv/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Manvvv/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1859-sorting-the-sentence](https://github.com/Manvvv/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Manvvv/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manvvv/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Manvvv/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Manvvv/LeetCode/tree/master/0175-combine-two-tables) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Manvvv/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
