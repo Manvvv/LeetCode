@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Manvvv/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manvvv/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manvvv/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1051-height-checker](https://github.com/Manvvv/LeetCode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/Manvvv/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Manvvv/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Manvvv/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Manvvv/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manvvv/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Manvvv/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1051-height-checker](https://github.com/Manvvv/LeetCode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Manvvv/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Manvvv/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manvvv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Manvvv/LeetCode/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manvvv/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
 |  |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Manvvv/LeetCode/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/Manvvv/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Tree
 |  |
