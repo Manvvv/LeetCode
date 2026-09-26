@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manvvv/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manvvv/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manvvv/LeetCode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Manvvv/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvvv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Manvvv/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manvvv/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Manvvv/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Manvvv/LeetCode/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manvvv/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manvvv/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manvvv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manvvv/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manvvv/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Manvvv/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvvv/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manvvv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manvvv/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manvvv/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Manvvv/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Manvvv/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
