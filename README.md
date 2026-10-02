@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manvvv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manvvv/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manvvv/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Manvvv/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvvv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manvvv/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manvvv/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manvvv/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Manvvv/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Manvvv/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Manvvv/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvvv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manvvv/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Manvvv/LeetCode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manvvv/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Manvvv/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Manvvv/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Manvvv/LeetCode/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manvvv/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Manvvv/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Manvvv/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Manvvv/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Manvvv/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Manvvv/LeetCode/tree/master/0389-find-the-difference) |
@@ -417,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manvvv/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Manvvv/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Manvvv/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
