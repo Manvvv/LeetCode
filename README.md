@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Manvvv/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manvvv/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manvvv/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manvvv/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manvvv/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Manvvv/LeetCode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Manvvv/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Manvvv/LeetCode/tree/master/1291-sequential-digits) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manvvv/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manvvv/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Manvvv/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Manvvv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Manvvv/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
