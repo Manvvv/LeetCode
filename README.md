@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Manvvv/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Manvvv/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manvvv/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manvvv/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manvvv/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manvvv/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manvvv/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Manvvv/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Manvvv/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manvvv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manvvv/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manvvv/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manvvv/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manvvv/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manvvv/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/Manvvv/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Manvvv/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manvvv/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manvvv/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Manvvv/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manvvv/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
