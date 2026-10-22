@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manvvv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manvvv/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Manvvv/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Manvvv/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Manvvv/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manvvv/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manvvv/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Manvvv/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Manvvv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manvvv/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Manvvv/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Manvvv/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manvvv/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/Manvvv/LeetCode/tree/master/1859-sorting-the-sentence) |
