@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Manvvv/LeetCode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Manvvv/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Manvvv/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Manvvv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manvvv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Manvvv/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manvvv/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Manvvv/LeetCode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Manvvv/LeetCode/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Manvvv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
